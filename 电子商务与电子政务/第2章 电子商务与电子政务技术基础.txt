@@ -1,0 +1,30 @@
+第2章 电子商务与电子政务技术基础
+2.1 因特网技术基础
+2.1.1 因特网技术
+1.Internet的产生与发展
+2.TCP/IP
+3.IP地址与域名系统
+4.Internet的接入方式
+(1)公用电话交换网接入
+(2)ISDN接入(综合业务数字网Integrated Service Digital Network)
+(3)DDN接入(数字数据网Digital Data Network)
+(4)ASDL接入(不对称数字用户环路Asymmetric Digital Subscriber Line)
+(5)线缆调试解调器接入(Cable-Modem)
+(6)光纤接入
+(7)无线接入
+(8)局域网接入
+5.Internet的基本服务
+1.电子邮件(E-mail)
+2.万维网(WWW)
+3.文件传输(FTP[File Transfer Protocol])
+4.远程登录(Telnet)
+5.电子公告牌(BBS[Bulletin Board System])
+
+2.1.2 内联网和外联网
+1.内联网Intranet
+2.外联网Extranet
+3.因特网、内联网和外联网三者的关系
+（1）在操作权限上
+（2）在内容上
+（3）在服务对象上
+
