@@ -28,3 +28,43 @@
 （2）在内容上
 （3）在服务对象上
 
+
+2.2 电子商务与电子政务网站平台
+2.2.1 网站架构
+1.C/S与B/S架构
+（1）C/S结构 (Client/Server)
+（2）B/S结构 (Browser/Server)
+2.网站体系架构
+（1）表示层：Web浏览器
+（2）功能层：具有应用程序扩展功能的Web服务器
+（3）数据层：数据库服务器
+
+2.2.2 网站软硬件
+1.网站硬件
+选择服务器需要考虑如下主要因素
+①性能 ②稳定性 ③价格 ④售后服务
+2.网站软件
+主要包括操作系统软件、Web服务器软件、数据库软件等，其中最为核心的是Web服务器软件的选型和配置
+
+
+2.2.3 网站开发技术
+1.静态网页技术
+（1）HTML语言
+HyperText Markup Language
+（2）脚本语言Script
+VBScript和JavaScript
+（3）可视化网页编辑工具
+FrontPage、Dreamweaver
+辅助工具Photoshop，Illastrator
+
+2.动态网页技术
+（1）CGI(Common Gateway Interface) 通用网关接口
+（2）ASP(Active Server Page) 活动服务器网页
+（3）JSP(Java Server Page)Java服务器网页
+（4）PHP(HyperText Preprocessor)超文本预处理器
+
+3.Web数据库技术
+（1）Web数据库的概念
+（2）几种常用的Web数据库
+SQL Server、MySQL、Oracle
+
